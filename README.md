@@ -14,7 +14,7 @@
  
  📱 I’m interested in **Mobile App Development**
 
- 🖥️ Also interested in **Front-End Development**
+ 🤖 Also interested in **Artificial Intelligence**
  
  📚 I’m currently learning **Flutter and Dart**
 
