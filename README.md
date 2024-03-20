@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carlospigurina
 - 👀 I’m interested in ... Japan culture
-- 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Mobile App Development
 - 📫 How to reach me ... carlinpigu4@gmail.com
 
 <!---
