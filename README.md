@@ -20,7 +20,7 @@
 
 💬 Ask me about  **HTML, CSS... or anything!**
 
-🎮 Only **Dead by Daylight, CS2 and Minecraft**
+🎮 Only **Dead by Daylight, CS2** and **Minecraft**
  </div>
  <hr/>
 <!-- DESCRIPTION -->
