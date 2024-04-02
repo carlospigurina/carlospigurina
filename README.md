@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 📱 I’m interested in **Mobile App Development**
+ 📱 I’m interested in **Front-End Development**
 
  🤖 Also interested in **Artificial Intelligence**
  
