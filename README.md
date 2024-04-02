@@ -27,7 +27,7 @@
 
 
 <!-- TECH STACK -->
-<h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
+<h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,react,flutter,dart,nodejs" /><br>
