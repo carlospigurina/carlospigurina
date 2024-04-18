@@ -14,11 +14,11 @@
  
  📱 I’m interested in **Front-End Development**
 
- 🤖 Also interested in **Artificial Intelligence**
+ 🔒 Also interested in **Cybersecurity**
  
- 📚 I’m currently learning **Flutter and Dart**
+ 📚 I’m currently learning **Web Development**
 
-💬 Ask me about  **HTML, CSS... or anything!**
+💬 Ask me about  **HTML, CSS, JavaScript... or anything!**
 
 🎮 Only **Dead by Daylight, CS2** and **Minecraft**
  </div>
