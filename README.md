@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>&nbsp &nbsp &nbsp
 
-  <a href="https://carlospigurina.github.io" target="_blank">
+  <a href="https://carlospigurina.github.io" target="_blank" style="text-decoration:none;">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" background="purple"/> 
     <!-- sqlite, safari, google-chrome are other good icon options --> 
   </a>
