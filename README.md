@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 📱 I’m interested in **Front-End Development**
+ 📱 I’m interested in **Web Development**
 
  🔒 Also interested in **Cybersecurity**
  
- 📚 I’m currently learning **Web Development**
+ 📚 I’m currently learning **Front-End Development**
 
 💬 Ask me about  **HTML, CSS, JavaScript... or anything!**
 
