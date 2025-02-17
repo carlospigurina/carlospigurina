@@ -30,8 +30,8 @@
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,react,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,git,github" /><br>
 </div>
 <br/>
 <hr/>
